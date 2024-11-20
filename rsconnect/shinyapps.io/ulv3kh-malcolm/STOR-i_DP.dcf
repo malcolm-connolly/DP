@@ -1,0 +1,12 @@
+name: STOR-i_DP
+title: STOR-i_DP
+username: ulv3kh-malcolm
+account: ulv3kh-malcolm
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13392219
+bundleId: 9390986
+url: https://ulv3kh-malcolm.shinyapps.io/STOR-i_DP/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
