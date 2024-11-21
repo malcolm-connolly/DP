@@ -26,7 +26,7 @@ ui <- fluidPage(
                         max = 40,
                         value = 40),
             sliderInput("day",
-                        "days:",
+                        "day:",
                         min = 1,
                         max = 100,
                         value = 1)
